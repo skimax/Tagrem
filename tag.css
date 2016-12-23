@@ -5,9 +5,8 @@ body {
    font-family: Lato;
    font-size:18px;
    
-
-
 }
+
 
 .masthead {
   background-image: url(Img/banner.jpg);
@@ -16,8 +15,6 @@ body {
   background-repeat: no-repeat;
   height:25rem;
   margin:-1% -2% 0% -1%;
- 
- 
 }
 
 
@@ -50,11 +47,13 @@ h1 {
 }
 
 
+
 h5 {
  font-size: 23px;
  font-weight: 200
 
 }
+
 
 
 .top-sidebar {
@@ -79,6 +78,7 @@ h5 {
 
 }
 
+
 #popup {
   
    background-color: #E2DFDF;
@@ -93,6 +93,7 @@ h5 {
 p {
   width:100%
 }
+
 
 
 .clo {
@@ -129,18 +130,20 @@ h6 {
 }
 
 
+
  ul, li {
 
  	 list-style:none;
 }
  	
+
    .top-container li {
  		     display: inline-block;
  		     width: 14rem;
  		     text-align: left;
          margin-left:-37px;
          margin-right:90px;
-   	}
+}
 
 
  h3 {
